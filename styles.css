@@ -1,0 +1,11 @@
+.pic {
+	height: 1000px;
+	width: 500px;
+	background: blue;
+}
+
+#test {
+	font-size:300px;
+	font-style: italic;
+	text-align: right; 
+}

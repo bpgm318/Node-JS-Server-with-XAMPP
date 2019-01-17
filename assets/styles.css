@@ -1,0 +1,58 @@
+.test {
+	text-align: right;
+}
+
+.pic {
+	margin-right: 20px;
+}
+
+.form {
+	margin-left:20px;
+	width: 700px;
+}
+
+.formintro{
+	font-family: 'Maven Pro', sans-serif;
+	margin-left: 15px;
+	font-family: 'Press Start 2P', cursive;
+	font-size:30px;
+}
+
+.leaderboardsintro {
+	font-family: 'Maven Pro', sans-serif;
+	margin-bottom: 0;
+	font-family: 'Press Start 2P', cursive;
+	
+	text-align: center;
+}
+
+.scoreled {
+	
+	font-family: 'Chango', cursive;
+
+}
+
+.subrest {
+	font-family: 'BenchNine', sans-serif;
+	font-size: 20px;
+}
+
+.aboutgame {
+	display: inline-block;
+	padding-top:0px;
+	float: center;
+	font-size: 40px;
+	font-family: 'Righteous', cursive;
+	
+}
+
+.brospic {
+	display: inline-block;
+	margin-right: 20px;
+	float: left;
+}
+
+.aboutgametext {
+	font-size:20px;
+	font-family: 'Righteous', cursive;
+}
